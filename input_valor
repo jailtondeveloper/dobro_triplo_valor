@@ -1,0 +1,4 @@
+print ("Questão 02 - dobro e triplo")
+num = int(input("informe um número: "))
+
+print("O dobro de ", num, " é {} e o triplo é {}".format(num * 2, num * 3), ".")
